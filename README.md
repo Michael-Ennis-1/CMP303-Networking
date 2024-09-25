@@ -2,6 +2,7 @@
 My CMP303 Third Year Networking project. Simple demonstration project of two clients capable of moving in sync over a .NET server, using Interpolation and Prediction techniques, and both transport layer protocols TCP and UDP. 
 
 *Image of two clients connected to same server*
+
 ![image](https://github.com/user-attachments/assets/42080ce8-8344-47f4-bb1c-c8d2c712da77)
 
 ## Instructions For Use
